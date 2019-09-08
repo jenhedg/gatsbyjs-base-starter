@@ -5,7 +5,7 @@
 
 **This iteration includes the following deviations from the original**
 
-- Updates of file structure and organization
+- File structure broken down into /base, /components, /pages
 - SCSS integration
 - Navigation component with dynamically generated links and titles via GraphQL
 
