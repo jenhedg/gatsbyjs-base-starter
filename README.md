@@ -1,7 +1,7 @@
 A base project using the Gatsby.js framework.
 
-https://github.com/gatsbyjs
-https://www.gatsbyjs.org/
+[Gatsby on Github](https://github.com/gatsbyjs)
+[gatsby.js.org](https://www.gatsbyjs.org/)
 
 **This iteration includes the following deviations from the original -- 
 
