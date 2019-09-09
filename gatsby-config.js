@@ -10,7 +10,7 @@ module.exports = {
       },
       {
          name:'subpage',
-         link:'/subPage'
+         link:'/subpage'
       },
     ]
   },

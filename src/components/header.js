@@ -24,7 +24,7 @@ const Header = () => {
 
   return (
     <header className="header">
-      <h1>{data.site.siteMetadata.title}</h1>
+      <h1 className="header__title">{data.site.siteMetadata.title}</h1>
       <Nav />   
     </header>
   )
