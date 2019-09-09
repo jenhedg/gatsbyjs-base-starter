@@ -8,6 +8,7 @@
 - File structure broken down into /base, /components, /pages
 - SCSS integration
 - Navigation component with dynamically generated links and titles via GraphQL
+- Add normlize.css
 
 **TODOs:**
 - implement Contentful CMS integration*
