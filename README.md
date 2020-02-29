@@ -9,7 +9,3 @@
 - SCSS integration
 - Navigation component with dynamically generated links and titles via GraphQL
 - Add normlize.css
-
-**TODOs:**
-- implement Contentful CMS integration*
-- pass through variable src to <Image> component
